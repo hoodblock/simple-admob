@@ -1,4 +1,4 @@
-# Admob_SwiftUI
+# admob
 我不允许你不会 Google Admob For iOS
 
 
